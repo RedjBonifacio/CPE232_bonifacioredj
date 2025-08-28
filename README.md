@@ -1,1 +1,2 @@
-# CPE212_bonifacioredj
+This is my CPE212 repo setup
+
